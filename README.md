@@ -104,6 +104,5 @@ The two browser tabs will establish a peer-to-peer WebRTC connection. Your video
 - Click the **“Share Screen”** button during a call.  
 - Choose to share your **entire screen**, a **specific window**, or a **browser tab**.  
 - Your peer will immediately see the shared content in real-time.
-
-
+  
 <img width="1470" height="835" alt="Image" src="https://github.com/user-attachments/assets/7adaffd0-050a-4d5c-8382-cf3af14622ae" />
