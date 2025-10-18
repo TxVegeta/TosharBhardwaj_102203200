@@ -84,3 +84,5 @@ The two browser tabs will establish a peer-to-peer WebRTC connection. Your video
 
 ### 🏠 Home Page
 <img width="1447" height="796" alt="Image" src="https://github.com/user-attachments/assets/60a69e48-a83a-4eeb-aefc-aa594ee36ceb" />
+###  Creating Meeting and Joining
+<img width="1447" height="796" alt="Image" src="https://github.com/user-attachments/assets/08a333e2-9145-4f04-8e82-0e2164697f82" />
