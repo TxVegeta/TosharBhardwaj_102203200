@@ -86,4 +86,22 @@ The two browser tabs will establish a peer-to-peer WebRTC connection. Your video
 <img width="1447" height="796" alt="Image" src="https://github.com/user-attachments/assets/60a69e48-a83a-4eeb-aefc-aa594ee36ceb" />
 
 ### 🔗 Joining a Meeting
+1. Open the app in another browser tab or device.  
+2. Click **“Join Call”** on the home page.  
+3. Paste the **Meeting ID** shared by the host.  
+4. Click **“Join Meeting”**.  
+5. You’ll immediately connect with the host via a **peer-to-peer WebRTC connection** for video, audio, and chat.
 <img width="1447" height="796" alt="Image" src="https://github.com/user-attachments/assets/08a333e2-9145-4f04-8e82-0e2164697f82" />
+
+### 💬 Chatting During the Call
+-Use the **chat panel** on the right-hand side to send and receive messages.  
+-Messages are transmitted in real time using **WebRTC data channels**
+
+<img width="1470" height="835" alt="Image" src="https://github.com/user-attachments/assets/8a5b51b1-db92-459a-8c42-ac0f1561677d" />
+
+
+### 🖥️ Screen Sharing
+- Click the **“Share Screen”** button during a call.  
+- Choose to share your **entire screen**, a **specific window**, or a **browser tab**.  
+- Your peer will immediately see the shared content in real-time.
+- 
