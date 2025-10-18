@@ -79,3 +79,8 @@ Paste the copied Meeting ID into the input field.
 Click the Join Meeting button.
 
 The two browser tabs will establish a peer-to-peer WebRTC connection. Your video call is now live!
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+<img width="1447" height="796" alt="Image" src="https://github.com/user-attachments/assets/60a69e48-a83a-4eeb-aefc-aa594ee36ceb" />
